@@ -1,0 +1,1 @@
+This is Tekelia’s first git project!
